@@ -1,0 +1,2 @@
+# ohatu
+my first repository
